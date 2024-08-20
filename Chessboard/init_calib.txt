@@ -1,0 +1,11 @@
+#calibration board config
+chessboard_size: 6,9
+square_size: 0.04
+
+#mono camera calibration settings
+flag_init_cam_param: 0
+init_fx_guess:540
+init_fy_guess:540
+init_cx_guess:320
+init_cy_guess:240
+
